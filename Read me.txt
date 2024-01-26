@@ -1,0 +1,8 @@
+
+This application is a simple (.txt ) Encryption/Decryption Windows app.
+
+It is designed using Python and Qt Designer.
+
+Watch the "How to use the app" video in order to know how it works.
+
+Thanks
